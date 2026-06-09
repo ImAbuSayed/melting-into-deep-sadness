@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the midnight pulling on my soul
+> Your shadow dancing where the embers glow
+> I'm melting down into a sweet abyss
+> Just craving one more taste of your slow kiss
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
